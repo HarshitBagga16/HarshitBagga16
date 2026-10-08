@@ -1,21 +1,376 @@
-# 💫 About Me:
-👋 About Me<br>I'm a Full-Stack Developer/Data Scientist with strong problem-solving skills and a solid foundation in Data Structures and Algorithms using C++. I enjoy building scalable web applications with clean architecture and intuitive design.<br><br>Beyond code, I'm passionate about fitness, language learning, gaming, playing guitar, and singing — I find creativity in both development and the arts.<br><br>📌 Currently Learning<br>Advanced ML Algo<br><br>Backend architecture at scale (authentication, microservices, etc.)<br><br><br>💡 Fun Fact<br>I can debug code faster with music playing — especially while playing my own guitar riffs. 🎸<br><br>💬 Ask Me About<br>Building full-stack apps from scratch<br><br>Optimizing DSA problems in C++<br><br>How learning languages makes me a better programmer<br><br>🤝 Let's Collaborate<br>I'm currently open to internships and collaborative opportunities that challenge my skills and help me grow. If you're building something impactful — let's talk!<br>Send me an email : harshitbagga34@gmail.com<br><br>Au revoir!
+# 👋 Hi, I'm Harshit Bagga
 
+### Software Engineer • Data & ML • GenAI • Backend
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harshit8829/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshitbagga34?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/harshitbagga16?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitbagga34@gmail.com) 
+I’m a **Computer Science graduate** interested in building intelligent, scalable applications at the intersection of **Software Engineering, Data Science, Machine Learning, and Generative AI**.
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshitBagga16&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshitBagga16&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitBagga16&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy going from **problem → data → model → API → production application** and continuously learning how modern AI systems work under the hood.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshitBagga16&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/harshitbagga34">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:harshitbagga34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HarshitBagga16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/harshitbagga16">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshitBagga16&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+- 🤖 Building **Generative AI applications**
+- 🔎 Learning **RAG, vector search, embeddings & semantic search**
+- 🧠 Understanding **LLMs, Transformers, Attention & tokenization**
+- 🐍 Building data and ML workflows with **Python**
+- ⚙️ Strengthening **backend engineering and API development**
+- 📊 Working with **SQL, Pandas, NumPy & PySpark**
+- 🧩 Improving **DSA and problem-solving with C++**
+- ☁️ Learning how to take AI applications from prototype to production
+
+---
+
+## 🧠 My Technical Journey
+
+### 💻 Software Engineering
+
+- C++
+- Python
+- JavaScript
+- TypeScript
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- REST APIs
+- API Design
+- WebSockets
+- Backend Architecture
+
+### 🌐 Full-Stack & Backend
+
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Prisma
+- JWT Authentication
+- Socket.io
+- Tailwind CSS
+- Serverless APIs
+- CI/CD
+- Git & GitHub
+- Postman
+
+### 📊 Data Science & Analytics
+
+- Python for Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SQL
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Data Visualization
+- Statistical Analysis
+- Hypothesis Testing
+- T-Test
+- ANOVA
+- Correlation Analysis
+- Apache Spark / PySpark
+
+### 🤖 Machine Learning
+
+**Supervised Learning**
+- Linear Regression
+- Logistic Regression
+- KNN
+- SVM
+- Decision Trees
+- Random Forest
+- Naive Bayes
+
+**Ensemble & Boosting**
+- Bagging
+- Gradient Boosting
+- AdaBoost
+- XGBoost
+- LightGBM
+
+**ML Concepts**
+- Train / Validation / Test Split
+- Cross-Validation
+- K-Fold Cross-Validation
+- Feature Scaling
+- One-Hot Encoding
+- Feature Selection
+- SMOTE
+- Data Leakage
+- Hyperparameter Tuning
+- GridSearchCV
+
+**Model Evaluation**
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- PR-AUC
+- Log Loss
+- MAE
+- MSE
+- RMSE
+- R²
+
+### 🧬 Generative AI
+
+Currently building my foundation from the **LLM fundamentals → application development** side.
+
+- AI vs ML vs Deep Learning vs GenAI
+- Neural Network Fundamentals
+- Transformers
+- Encoder / Decoder Architecture
+- Self-Attention
+- Multi-Head Attention
+- Causal / Masked Attention
+- Query, Key & Value
+- Tokenization
+- Token IDs & Vocabulary
+- BPE / Subword Tokenization
+- Embeddings
+- Cosine Similarity
+- LLM APIs
+- System / User / Assistant Messages
+- Temperature & Token Limits
+- Streaming
+- Prompt Engineering
+- Zero-Shot & Few-Shot Prompting
+- Structured Prompting
+- Prompt Templates
+- Output Constraints
+- Prompt Chaining
+- Context Injection
+- Vector Search
+- Vector Databases
+- Top-K Similarity Search
+- Metadata Filtering
+- RAG Fundamentals
+- Fine-Tuning vs RAG
+
+### 🛠️ Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Docker
+- Vercel
+- Render
+- Netlify
+- Firebase
+- Figma
+- Canva
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Career Coach
+
+AI-powered career guidance application built around LLMs.
+
+**Tech:** `GPT-4` `LangChain` `Vercel AI SDK` `Next.js`
+
+- Integrated an LLM into a real-world application
+- Implemented conversational chat functionality
+- Worked with chat memory and token handling
+- Integrated external AI services
+- Built serverless API routes
+
+---
+
+### 📊 Prompt-Based Data Analyst
+
+A GenAI-powered data analysis workflow that combines **Python/Pandas computation with LLM-generated explanations**.
+
+**Pipeline:**
+
+```text
+CSV
+ ↓
+Python / Pandas
+ ↓
+Data Analysis & Statistics
+ ↓
+Computed Facts
+ ↓
+LLM
+ ↓
+Natural Language Explanation
+```
+
+The important principle is to let **Python calculate the numbers** and use the LLM to **reason about and explain the results**, rather than asking the LLM to invent calculations.
+
+---
+
+### 💬 LLM Chatbot
+
+A Python-based chatbot built while learning how to work with LLM APIs.
+
+**Tech:** `Python` `LLM APIs` `dotenv`
+
+Explored:
+
+- API requests
+- System prompts
+- User messages
+- Assistant responses
+- Temperature
+- Token limits
+- Streaming
+- Conversation context
+- Environment variables
+- API key management
+
+---
+
+### 🌐 BaggaGram
+
+Full-stack social media application.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `WebSockets`
+
+- JWT authentication
+- REST APIs
+- Real-time messaging
+- Image uploads
+- MongoDB persistence
+- Modular backend architecture
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio built with modern web technologies.
+
+**Tech:** `Next.js` `TypeScript` `React` `Tailwind CSS`
+
+- Responsive UI
+- Secure contact form
+- Environment-based credentials
+- Rate limiting
+- CI/CD
+- Production deployment
+
+---
+
+## 📚 Currently Learning
+
+```text
+Generative AI
+    │
+    ├── LLM Fundamentals
+    ├── Transformers & Attention
+    ├── Tokenization & Embeddings
+    ├── LLM APIs
+    ├── Prompt Engineering
+    ├── Vector Search
+    ├── RAG
+    ├── AI Agents
+    └── Production AI Applications
+```
+
+My current goal is to move beyond simply **calling an LLM API** and understand how to build **reliable AI applications around LLMs**.
+
+---
+
+## 🎯 What I Like Building
+
+```text
+🧠 AI Applications
+🤖 LLM-powered tools
+🔎 RAG & Search Systems
+📊 Data & ML Applications
+⚙️ Backend APIs
+🌐 Full-Stack Applications
+📈 Data Analytics Systems
+```
+
+---
+
+## 💡 Ask Me About
+
+- Python & SQL
+- Data Analysis
+- Machine Learning fundamentals
+- Pandas / NumPy
+- EDA & Data Preprocessing
+- Backend Development
+- REST APIs
+- React / Next.js
+- Node.js / Express
+- C++ & DSA
+- LLM APIs
+- Prompt Engineering
+- Embeddings & Vector Search
+- RAG fundamentals
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitBagga16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitBagga16&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitBagga16&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshitBagga16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshitBagga16/HarshitBagga16/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 💬 Let's Connect
+
+I'm always interested in **AI, backend engineering, data, and interesting software projects**.
+
+If you're building something interesting or want to collaborate, feel free to reach out.
+
+**📧 harshitbagga34@gmail.com**
+
+---
+
+<p align="center">
+  <i>“Build. Learn. Break things. Understand why they broke. Build again.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something useful here, consider giving the repository a star!
+</p>
